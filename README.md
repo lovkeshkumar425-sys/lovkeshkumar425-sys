@@ -9,18 +9,18 @@
 </p>
 
 📍 Bulandshahr, Uttar Pradesh, India  
-📧 **lovkeshKumar425@gmail.com**
+📧 **[lovkeshKumar425@gmail.com](mailto:lovkeshKumar425@gmail.com)**
 
 ---
 
 ## 🚀 About Me
 
 - 📊 Aspiring Data Analyst interested in solving business problems with data.
-- 🐍 Experienced in data analysis and visualization using Python libraries.
-- 🗄️ Practice SQL queries to extract, transform, and analyze data.
-- 📈 Build interactive dashboards and reports using Power BI and Excel.
+- 🐍 Data analysis and visualization using Python libraries.
+- 🗄️ SQL queries for extracting and analyzing data.
+- 📈 Dashboard creation and reporting using Power BI and Excel.
 - 🧠 Interested in statistics, hypothesis testing, and data-driven decision-making.
-- 💡 Focused on turning raw data into meaningful insights and clear visual stories.
+- 💡 Focused on turning raw data into meaningful insights.
 
 ---
 
@@ -69,16 +69,14 @@
 
 | Project | Tools | Project Link |
 |---|---|---|
-| 🏦 Bank Loan Risk Analysis | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/bank-loan-risk-analysis) |
-| 🚚 Supply Chain Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/supply-chain-analytics) |
-| 🛍️ Retail Sales Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/retail-sales-analytics) |
-| 🛒 E-Commerce Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ecommerce-data-analysis) |
-| 👥 HR Analytics | Excel | [View Project](https://github.com/lovkeshkumar425-sys/hr-analytics-excel) |
-| 🏏 IPL Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ipl-data-analysis) |
-| 🌍 World Happiness Report | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/world-happiness-report) |
-| 🎓 Udemy Courses Analytics | SQL, Python | [View Project](https://github.com/lovkeshkumar425-sys/udemy-courses-analysis) |
-
-🔗 **[Explore My Full Portfolio](https://lovkeshkumar425-sys.github.io/Portfolio-/portfolio.html)**
+| Bank Loan Risk Analysis | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/bank-loan-risk-analysis) |
+| Supply Chain Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/supply-chain-analytics) |
+| Retail Sales Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/retail-sales-analytics) |
+| E-Commerce Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ecommerce-data-analysis) |
+| HR Analytics | Excel | [View Project](https://github.com/lovkeshkumar425-sys/hr-analytics-excel) |
+| IPL Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ipl-data-analysis) |
+| World Happiness Report | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/world-happiness-report) |
+| Udemy Courses Analytics | SQL, Python | [View Project](https://github.com/lovkeshkumar425-sys/udemy-courses-analysis) |
 
 ---
 
@@ -87,6 +85,7 @@
 - **Deloitte Australia** — Data Analytics Job Simulation
 - **Tata Group** — Data Visualization Job Simulation
 - **Cisco** — Data Analytics Essentials
+- **Ducat Institute** — Data Analytics Training
 
 ---
 
@@ -105,7 +104,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/lovkeshkumar425-sys">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
