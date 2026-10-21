@@ -1,65 +1,70 @@
 # 👋 Hi, I'm Lovkesh Kumar
-### Data Analyst | SQL • Power BI • Excel • Tableau • Python
 
-📍 Bulandshahr, UP | 📧 lovkeshKumar425@gmail.com
+### Aspiring Data Analyst | SQL • Power BI • Excel • Tableau • Python
+
+📍 Bulandshahr, Uttar Pradesh, India | 📧 lovkeshKumar425@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-
-
-
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-
-
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-
-
+**Data Analysis & Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Data Visualization & Reporting**
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Statistics & Analytical Methods**
+
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Hypothesis Testing
+- Correlation Analysis
+- Data Cleaning and Data Validation
+- KPI Tracking and Business Insights
 
 ---
 
 ## 📂 Projects
-| Project | Tools | Link |
-|--------|-------|------|
-| E-Commerce Sales Dashboard | Power BI, DAX | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_powerbi-dataanalytics-dataanalyst-activity-7462785956396494849--fqm) |
-| Uber Rides Analysis | SQL, MySQL | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_sql-mysql-dataanalytics-activity-7468304846920499201-MegG) |
-| HR Analysis Dashboard | Excel, Power Query | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_hranalytics-dataanalytics-dashboard-activity-7452329042952839168-fMJI) |
-| Swiggy Restaurant Analysis | Power BI | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_powerbi-dataanalytics-datavisualization-activity-7460610513077637120-3Y-a) |
-| World Happiness Report | Power BI | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_powerbi-dataanalytics-datavisualization-activity-7461960575024279552--yBq) |
-| Electric Vehicles Analysis | Tableau | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_tableau-dataanalytics-dataanalyst-activity-7463938512975806464-eO1B) |
-| Student Performance Dashboard | Power BI | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_powerbi-dataanalytics-datavisualization-activity-7471178834994745344-cq7I) |
-| Global Layoffs Analysis | Excel | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_dataanalysis-layoffs-excel-activity-7449128172505235457-r9PL) |
+
+| Project | Tools | Repository |
+|---|---|---|
+| Bank Loan Risk Analysis | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/bank-loan-risk-analysis) |
+| Supply Chain Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/supply-chain-analytics) |
+| Retail Sales Analytics | Python, SQL, Power BI | [View Project](https://github.com/lovkeshkumar425-sys/retail-sales-analytics) |
+| E-Commerce Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ecommerce-data-analysis) |
+| HR Analytics | Excel | [View Project](https://github.com/lovkeshkumar425-sys/hr-analytics-excel) |
+| IPL Data Analysis | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/ipl-data-analysis) |
+| World Happiness Report | Power BI | [View Project](https://github.com/lovkeshkumar425-sys/world-happiness-report) |
+| Udemy Courses Analytics | SQL, Python | [View Project](https://github.com/lovkeshkumar425-sys/udemy-courses-analysis) |
 
 🔗 **[View Full Portfolio](https://lovkeshkumar425-sys.github.io/Portfolio-/portfolio.html)**
 
 ---
 
 ## 🏆 Certifications
+
 - Deloitte Australia — Data Analytics Job Simulation
-- Tata Group — Data Visualization Job Simulation  
+- Tata Group — Data Visualization Job Simulation
 - Cisco — Data Analytics Essentials
 
 ---
 
 ## 📊 Connect With Me
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovkesh-kumar-b65b6a382/)
 
-](https://www.linkedin.com/in/lovkesh-kumar-b65b6a382)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovkeshkumar425-sys)
+
+---
+
+*Thanks for visiting my profile!*
+
